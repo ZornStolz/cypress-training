@@ -1,0 +1,28 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZornStolz/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Juan David Vera Usman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZornStolz/cypress-training/issues"
+  },
+  "homepage": "https://github.com/ZornStolz/cypress-training#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
